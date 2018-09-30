@@ -1,0 +1,54 @@
+*{
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+
+.Header{
+  color: white;
+  background-color: cadetblue;
+  padding: 1rem 2rem;
+}
+
+#glassesImage{
+  height: 1.5rem;
+}
+
+.navigation{
+  padding: 1px 1px;
+}
+
+.Banner{
+  background-image: url(./glasses-bg.png);
+  height: 30rem;
+}
+
+
+.BannerText{
+  background-color: white;
+  font-size: 2rem;
+  line-height: 1.2;
+  font-weight: bold;
+  padding: 1.5rem 5rem;
+}
+
+p{
+  width: 35%;
+}
+
+.footer{
+  background-color: azure;
+}
+
+.footerContent{
+  padding: 4rem;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: cadetblue;
+  padding: 0.5rem 1.25rem;
+  color: white;
+  width: 10rem;
+}
